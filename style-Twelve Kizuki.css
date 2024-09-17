@@ -1,0 +1,30 @@
+body{
+    background-color: pink;
+}
+/* h1{
+    text-align: center;
+    position: fixed;
+    top:0px; 
+
+}*/
+#heading{
+    width: 100%;
+    text-align: center;
+    background-color: violet;
+    position: fixed;
+    top:0px;
+    left:0px;
+
+}
+h2{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+Button{
+    background-color: rgb(194, 47, 72);
+    Height:50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
